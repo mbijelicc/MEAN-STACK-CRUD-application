@@ -1,0 +1,23 @@
+Hello!  In this memo I will show you what my MEAN STACK application is doing!
+
+***TO INSTALL MODULES***
+
+In folder SASE-finalexam open cmd and write npm install to install node_modules
+In folder Angular open cmd and write npm install to install node_modules
+
+***CHNAGING PATHS***
+
+A path for the mongoDB should be changed
+In folder >app>config>db.config.js change the name of the database (however you want) and make the database with that name 
+in you mongoDB environment. Collections will be added automatically.
+
+***STARTING SERVERS***
+
+In folder Angular open cmd and write npm start to start a server
+In folder that will contain all the files open cmd and write node server.js to start a server
+
+***OPENING APPLICATION IN BROWSER***
+Navigate to https://localhost:8081/
+
+If you want to log in as an admin - contact me on mbijelicc@yahoo.com :)
+

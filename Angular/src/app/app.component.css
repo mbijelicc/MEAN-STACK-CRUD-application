@@ -1,0 +1,192 @@
+
+/*text*/
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script&family=Hind+Siliguri:wght@600&family=Indie+Flower&family=Noto+Serif&family=Permanent+Marker&display=swap');
+  @keyframes changeLetter {
+    0% {content: "";}
+    2% {content: "U"; color: black; font-family: 'Bebas Neue', cursive; ;}
+    3% {content: "UČI"; color: black; font-family: 'Bebas Neue', cursive; ;}
+    5% {content: "UČI."; color: #ec1c24; font-family: 'Bebas Neue', cursive; ;}
+    7% {content: "UČ"; color: black; font-family: 'Bebas Neue', cursive; ;}
+    9% {content: "U"; color: black; font-family: 'Bebas Neue', cursive; ;}
+    10% {content: "";}
+    14% {content: "RA"; color: black; font-family: 'Indie Flower', cursive; ;}
+    16% {content: "RAZ";color: black; font-family: 'Indie Flower', cursive; ;}
+    17% {content: "RAZVI";color: black; font-family: 'Indie Flower', cursive; ;}      
+    18% {content: "RAZVIJA";color: black; font-family: 'Indie Flower', cursive; ;}
+    19% {content: "RAZVIJAJ"; color: black; font-family: 'Indie Flower', cursive; ;}
+    20% {content: "RAZVIJAJ SE"; color: #ec1c24; font-family: 'Indie Flower', cursive; ;}
+    24% {content: "RAZVIJAJ SE.";  color: #ec1c24; font-family: 'Indie Flower', cursive; ;}
+    25% {content: "RAZVIJAJ SE.";  color: #ec1c24; font-family: 'Indie Flower', cursive; ;}
+    26% {content: "RAZVIJAJ S"; color: black; font-family: 'Indie Flower', cursive; ;}
+    27% {content: "RAZVIJA"; color: black; font-family: 'Indie Flower', cursive;;}
+    28% {content: "RAZVI"; color: black; font-family: 'Indie Flower', cursive; ;}
+    29% {content: "RAZ"; color: black; font-family: 'Indie Flower', cursive; ;}
+    30% {content: "R"; color: black; font-family: 'Indie Flower', cursive; ;}
+    31% {content: "";}
+    35% {content: "S";color: black; font-family: 'Dancing Script', cursive;}
+    37% {content: "STV";color: black; font-family: 'Dancing Script', cursive;}
+    39% {content: "STVAR";color: black; font-family: 'Dancing Script', cursive;}
+    40% {content: "STVARAJ.";color: #ec1c24; font-family: 'Dancing Script', cursive;}
+    43% {content: "STVARAJ.";color: #ec1c24; font-family: 'Dancing Script', cursive;}
+    46% {content: "STVARA";color: black; font-family: 'Dancing Script', cursive;}
+    47% {content: "STVA";color: black; font-family: 'Dancing Script', cursive;}
+    48% {content: "STV";color: black; font-family: 'Dancing Script', cursive;}
+    49% {content: "ST";color: black; font-family: 'Dancing Script', cursive;}
+    50% {content: "S";color: black; font-family: 'Dancing Script', cursive;}
+    52% {content: "S";color: black; font-family: 'Dancing Script', cursive;}
+    53% {content: "";}
+    55% {content: "M";color: black; font-family: 'Hind Siliguri', sans-serif;}
+    56% {content: "MAŠ";color: black; font-family: 'Hind Siliguri', sans-serif;}
+    57% {content: "MAŠT";color: black; font-family: 'Hind Siliguri', sans-serif;}
+    58% {content: "MAŠTAJ.";color: #ec1c24; font-family: 'Hind Siliguri', sans-serif;}
+    62% {content: "MAŠTAJ.";color: #ec1c24; font-family: 'Hind Siliguri', sans-serif;}
+    63% {content: "MAŠTA";color: black; font-family: 'Hind Siliguri', sans-serif;}
+    64% {content: "MAŠ";color: black; font-family: 'Hind Siliguri', sans-serif;}
+    65% {content: "MA";color: black; font-family: 'Hind Siliguri', sans-serif;}
+    66% {content: "M";color: black; font-family: 'Hind Siliguri', sans-serif;}
+    67% {content: "M";color: black; font-family: 'Hind Siliguri', sans-serif;}
+    68% {content: "";}
+    72% {content: "... ";color: black; font-family: 'Permanent Marker', cursive; font-size: 20px;}
+    74% {content: "... ";color: black; font-family: 'Permanent Marker', cursive; font-size: 20px;}
+    75% {content: "... DOK";color: black; font-family: 'Permanent Marker', cursive; font-size: 20px;}
+    76% {content: "... DOK SI";color: black; font-family: 'Permanent Marker', cursive; font-size: 20px;}
+    76% {content: "... DOK SI ŽIV";color: black; font-family: 'Permanent Marker', cursive; font-size: 20px;}
+    78% {content: "... DOK SI ŽIV";color: black; font-family: 'Permanent Marker', cursive; font-size: 20px;}
+    80% {content: "... DOK SI ŽIV... ";color: #ec1c24; font-family: 'Permanent Marker', cursive; font-size: 20px;}
+    81% {content: "... ";color: black; font-family: 'Permanent Marker', cursive; font-size: 20px;}
+    82% {content: "... ";color: black; font-family: 'Permanent Marker', cursive; font-size: 20px;}
+    83% {content: "";}
+    84% {content: "M";color: black; font-family: 'Noto Serif', serif; font-size: 25px; letter-spacing: 8px; font-weight: bold;}
+    85% {content: "MA";color: black; font-family: 'Noto Serif', serif; font-size: 25px; letter-spacing: 8px; font-weight: bold;}
+    86% {content: "MAT";color: black; font-family: 'Noto Serif', serif; font-size: 25px; letter-spacing: 8px; font-weight: bold;}
+    88% {content: "MATRI";color: black; font-family: 'Noto Serif', serif; font-size: 25px; letter-spacing: 8px; font-weight: bold;}
+    92% {content: "MATRICA";color: #ec1c24; font-family: 'Noto Serif', serif; font-size: 25px; letter-spacing: 8px; font-weight: bold;}
+    93% {content: "MATRICA";color: #ec1c24; font-family: 'Noto Serif', serif; font-size: 25px; letter-spacing: 8px; font-weight: bold; animation-duration: 2s;}
+    94% {content: "MATRICA";color: #ec1c24; font-family: 'Noto Serif', serif; font-size: 25px; letter-spacing: 8px; font-weight: bold;}
+    95% {content: "MATRI";color: black; font-family: 'Noto Serif', serif;} 
+    96% {content: "MATR";color: black; font-family: 'Noto Serif', serif;}
+    97% {content: "MAT";color: black; font-family: 'Noto Serif', serif;}
+    98% {content: "M";color: black; font-family: 'Noto Serif', serif;}
+    99% {content: "";}
+    100% {content: "";}
+
+ }
+  @keyframes cursor {
+    0% {content: "";}
+    50% {content: "|";}
+    100% {content: "";}
+ }
+
+ .changingtext {
+    position: fixed;
+    background-color:white;
+    z-index: 2;
+    width: 100%;
+    height: 5.5%;
+}
+
+.changingtext >h1 {
+    position: relative;
+}
+ 
+.letter-changer::before {
+    animation: changeLetter 24s linear 1s 1 normal forwards ;
+    content: "";
+    animation-iteration-count: infinite ;
+    z-index: 2;
+    width: 100%;
+    padding-left: 5%;
+}
+
+.letter-changer::after {
+    animation-iteration-count: infinite ;
+    z-index: 2;
+    width: 100%;
+}
+
+.letter-changer::after {
+    animation: cursor s linea2r 7s 1 normal forwards, cursor 2s linear 2s 3 normal forwards;
+    content: "|";
+    animation-iteration-count: infinite ;
+    z-index: 2;
+    width: 100%;
+}
+
+.letter-changer {
+    font-size: 22px;
+    letter-spacing: 4px;
+    z-index: 2;
+    width: 100%;
+}
+
+.navbar{
+top: 6%;
+background-color: black;
+color: white;
+z-index: 2;
+position: fixed;
+font-family: 'Bebas Neue';
+font-size: 20px;
+height: 6%;
+width: 100%;
+display: inline-flex;
+}
+
+.nav-item{
+    position: relative;
+    display: inline-flex;
+    text-decoration: none;
+    list-style: none;
+    list-style-type: none;
+
+}
+
+.nav-link {
+    color: white;
+    position: relative;
+    display: inline-flex;
+    text-decoration: none;
+    list-style: none;
+    list-style-type: none;
+    vertical-align: middle;
+    bottom: 5px;
+}
+
+.nav-link:hover {
+    color: #ec1c24;
+}
+
+.registerlogin{
+    position: relative;
+    float: right;
+    padding-right: 30px;
+    left: 1300px;
+}
+
+.adminboard {
+    padding-left: 30px;
+}
+
+.userboard{
+    padding-left: 30px;
+}
+
+.userprofile {
+    margin-left: 1100px;
+    padding: 0 10px 0 10px ;
+    background-color: #ec1c24;
+    color: white;
+    text-transform: uppercase;
+}
+
+.userprofile:hover {
+    background-color: white;
+    color: #ec1c24;
+}
+
+.logout{
+    padding-left: 30px;
+
+}
+
+
